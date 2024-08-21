@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jules\\source\\repos\\projectDev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\productdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\productdetail.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\productdetail.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\flyoutmenupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\flyoutmenupage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\homepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D4B683D-ACC8-4968-91C1-E677C58935E5}|projectDev\\projectDev.Android\\projectDev.Android.csproj|C:\\Users\\Jules\\source\\repos\\projectDev\\projectdev\\projectdev.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D4B683D-ACC8-4968-91C1-E677C58935E5}|projectDev\\projectDev.Android\\projectDev.Android.csproj|solutionrelative:projectdev\\projectdev.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\sqlitehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\homepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\settingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\settingpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\settingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\itempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\itempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\popitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\popitempage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\popitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\popitempage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\popuppage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\popuppage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\model\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|c:\\users\\jules\\source\\repos\\projectdev\\projectdev\\projectdev\\popuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5DBC7E3-BDEC-4961-BA0C-192C47512059}|projectDev\\projectDev\\projectDev.csproj|solutionrelative:projectdev\\projectdev\\popuppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ProductDetail.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\ProductDetail.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ProductDetail.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\ProductDetail.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-17T10:26:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\App.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\App.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T14:54:12.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyoutMenuPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\FlyoutMenuPage.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\FlyoutMenuPage.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\FlyoutMenuPage.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\FlyoutMenuPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-15T14:49:43.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev.Android\\MainActivity.cs",
+              "RelativeToolTip": "projectDev\\projectDev.Android\\MainActivity.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwBwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:37:07.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\HomePage.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\HomePage.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\HomePage.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\HomePage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T13:51:22.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SQLiteHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SQLiteHelper.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\SQLiteHelper.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SQLiteHelper.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\SQLiteHelper.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwvzwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:42:34.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\ItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ItemPage.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\ItemPage.xaml.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:39:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ProductDetail.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\ProductDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\ProductDetail.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\ProductDetail.xaml.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwGgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T13:33:22.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SettingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SettingPage.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\SettingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SettingPage.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\SettingPage.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAArwFsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:12:10.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SettingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SettingPage.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\SettingPage.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\SettingPage.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\SettingPage.xaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T09:12:17.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\HomePage.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\HomePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\HomePage.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\HomePage.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:02:24.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PopUpPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopUpPage.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\PopUpPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopUpPage.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\PopUpPage.xaml.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:01:17.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PopItemPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopItemPage.xaml.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\PopItemPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopItemPage.xaml.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\PopItemPage.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:01:10.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PopItemPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopItemPage.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\PopItemPage.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopItemPage.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\PopItemPage.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T09:00:21.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PopUpPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopUpPage.xaml",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\PopUpPage.xaml",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\PopUpPage.xaml",
+              "RelativeToolTip": "projectDev\\projectDev\\PopUpPage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-13T08:58:36.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\Model\\UserModel.cs",
+              "RelativeDocumentMoniker": "projectDev\\projectDev\\Model\\UserModel.cs",
+              "ToolTip": "C:\\Users\\Jules\\source\\repos\\projectDev\\projectDev\\projectDev\\Model\\UserModel.cs",
+              "RelativeToolTip": "projectDev\\projectDev\\Model\\UserModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:46:46.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

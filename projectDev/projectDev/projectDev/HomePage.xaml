@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             x:Class="projectDev.HomePage" 
+             Title="J and R Guitar Shop" 
+             BackgroundColor="#222629">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Profile"
+                     Clicked="ToolbarItem_Clicked" 
+                     IconImageSource="menu.png" 
+                     Order="Primary" 
+                     Priority="0"/>
+        <ToolbarItem Text="Profile"
+                     Clicked="ToolbarItem_Clicked_1" 
+                     IconImageSource="{Binding User.ProfImage}" 
+                     Order="Primary" 
+                     Priority="1"/>
+    </ContentPage.ToolbarItems>
+    <ScrollView>
+        <StackLayout Margin="10">
+            <SearchBar TextChanged="SearchBar_TextChanged"  Placeholder="Search Items..." PlaceholderColor="White" TextColor="White" BackgroundColor="#6b6e70"/>
+            <CollectionView x:Name="myCollectionView"
+                        EmptyView="No item to display">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical"
+                                 HorizontalItemSpacing="5"
+                                 VerticalItemSpacing="5"
+                                 Span="3"/>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame BackgroundColor="#61892f"
+                           Padding="10"
+                           CornerRadius="10">
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" NumberOfTapsRequired="1"/>
+                            </Frame.GestureRecognizers>
+                            <StackLayout>
+                                <Image Source="{Binding Image}"
+                                   HeightRequest="100"/>
+                                <Label Text="{Binding Name}"
+                                   TextColor="Black" 
+                                   HorizontalOptions="Center" 
+                                   FontSize="Medium"/>
+                            </StackLayout>
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button Text="Add New Item"
+                Clicked="Button_Clicked"
+                Margin="10"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

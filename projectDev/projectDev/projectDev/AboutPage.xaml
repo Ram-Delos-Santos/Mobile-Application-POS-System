@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectDev.AboutPage"
+             Title="About">
+    <ScrollView>
+        <StackLayout HorizontalOptions="Center"
+                 Margin="10">
+            <Image Source="logo.png"
+               MinimumHeightRequest="100"
+               MinimumWidthRequest="100"/>
+            <Label Text="J and R Guitar Shop"
+               FontSize="Title"
+               HorizontalOptions="Center"/>
+            <Label Text="J and R Guitar Shop is your one-stop shop for all things guitar! Whether you're a seasoned shredder or a curious beginner, we're passionate about helping you find the perfect instrument and nurturing your musical journey."
+               HorizontalOptions="Center"
+               FontSize="Body"/>
+            <Label Text="What We Offer"
+               FontSize="Title"/>
+            <Label Text="1. A wide selection of guitars: We carry a diverse range of acoustic and electric guitars, from beginner-friendly models to high-end professional instruments. We stock popular brands alongside up-and-coming luthiers, ensuring you have a variety of options to choose from."
+               FontSize="Body"/>
+            <Label Text="2. Knowledgeable staff: Our team is comprised of passionate guitarists who are experts in all things strings. They'll be happy to answer your questions, guide you through the selection process, and help you find the guitar that perfectly fits your style and budget."
+               FontSize="Body"/>
+            <Label Text="3. Guitar care and repair: Need a restring, a tune-up, or a more complex repair? Our skilled technicians can handle it all. We use high-quality parts and ensure your beloved instrument gets the care it deserves."
+               FontSize="Body"/>
+            <Label Text="4. A welcoming atmosphere: J and R Guitar Shop is more than just a store; it's a community hub for guitar enthusiasts. We encourage you to come in, try out some guitars, chat with our staff and fellow musicians, and immerse yourself in the world of music."
+               FontSize="Body"/>
+            <Label Text="Mission"
+               FontSize="Title"/>
+            <Label Text="At J and R Guitar Shop, we're committed to fostering a love for music and helping guitarists of all levels achieve their musical goals. We believe that music is a powerful tool for expression, joy, and connection, and we're here to support you on your musical journey."
+               FontSize="Body"/>
+            <Label Text="Join the J and R Family!"
+               FontSize="Title"/>
+            <Label Text="We invite you to visit our shop, browse our selection, and experience the J and R difference. Whether you're looking for your first guitar, need expert advice, or simply want to connect with other music lovers, we're here for you."
+                   FontSize="Body"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

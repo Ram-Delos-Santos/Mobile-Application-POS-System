@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage 
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="projectDev.PopItemPage">
+
+    <StackLayout Orientation="Vertical"
+                 Margin="20"
+                 HorizontalOptions="Center"
+                 VerticalOptions="Center"
+                 WidthRequest="350" 
+                 HeightRequest="500"
+                 BackgroundColor="#61892f">
+        <Image Source="{Binding Image}"
+               HeightRequest="300"
+               WidthRequest="300"
+               Aspect="AspectFit"
+               Margin="20"/>
+        <Label Text="{Binding Name}"
+               FontSize="24"
+               TextColor="White"
+               HorizontalOptions="Center"/>
+        <Label Text="{Binding Description}"
+               FontSize="18"
+               TextColor="White"
+               HorizontalOptions="Center"/>
+        <Label Text="{Binding Price}"
+               FontSize="18"
+               TextColor="White"
+               HorizontalOptions="Center"/>
+    </StackLayout>
+</popup:PopupPage>

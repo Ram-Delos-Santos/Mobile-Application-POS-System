@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="projectDev.SettingPage"
+             Title="Account Settings">
+    
+    <StackLayout
+             Margin="20"
+             HorizontalOptions="Center"
+             VerticalOptions="Center"
+             WidthRequest="350" 
+             HeightRequest="660"
+             BackgroundColor="#61892f" >
+        <Image x:Name="profImage" 
+           Source="{Binding ProfImage}" 
+           MinimumHeightRequest="500"/>
+        <Button Text="Add Image" x:Name="imageprofEntry" Clicked="imageprofEntry_Clicked"/>
+        <Entry Placeholder="Name"  
+               x:Name="nameprofEntry" />
+        <Entry Placeholder="Email"  
+               x:Name="emailEntry"/>
+        <Entry Placeholder="Contact Number" 
+           x:Name="contactEntry"/>
+        <Button Text="Save"  
+            Clicked="Button_Clicked"/>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             BackgroundColor="#222629"
+             x:Class="projectDev.ItemPage"
+             Title="Item List">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add" 
+                     IconImageSource="addimage.png" 
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <StackLayout>
+        <StackLayout Margin="10">
+            <SearchBar TextChanged="SearchBar_TextChanged" Placeholder="Search Items..." PlaceholderColor="White" TextColor="White" BackgroundColor="#6b6e70"/>
+        </StackLayout>
+        <CollectionView x:Name="myCollectionView" 
+                        SelectionMode="Single" 
+                        Margin="20, 5, 20, 0">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="10" Padding="10" HasShadow="True" BackgroundColor="#222629">
+                        <SwipeView>
+                            <SwipeView.RightItems>
+                                <SwipeItems>
+                                    <SwipeItem Text="Edit" 
+                                           BackgroundColor="Green" 
+                                           CommandParameter="{Binding .}" 
+                                           Invoked="SwipeItem_Invoked"/>
+                                    <SwipeItem Text="Delete" 
+                                           BackgroundColor="Red" 
+                                           CommandParameter="{Binding .}" 
+                                           Invoked="SwipeItem_Invoked_1"/>
+                                </SwipeItems>
+                            </SwipeView.RightItems>
+                            <Grid RowSpacing="0"
+                              BackgroundColor="#222629">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="90"/>
+                                </Grid.ColumnDefinitions>
+                                <Image Source="{Binding Image}"
+                                   Grid.Row="0" Grid.RowSpan="3" Grid.Column="0"
+                                   HeightRequest="300" WidthRequest="300" Aspect="AspectFit"/>
+                                <Label Text="{Binding Name}" 
+                                   Grid.Row="0" Grid.Column="1" 
+                                   VerticalOptions="CenterAndExpand" 
+                                   FontSize="20" 
+                                   FontAttributes="Bold"/>
+                                <Label Text="{Binding Description}" 
+                                   Grid.Row="1" Grid.Column="1"/>
+                                <Label Text="{Binding Price}" 
+                                   Grid.Row="2" Grid.Column="1"/>
+                            </Grid>
+                        </SwipeView>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </StackLayout>
+</ContentPage>
