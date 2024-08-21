@@ -1,5 +1,4 @@
 # Mobile Application POS System
- 3rd Year Mobile Application Development Final Project
  Only available for Android Phones. 
  Application installation steps:
 
