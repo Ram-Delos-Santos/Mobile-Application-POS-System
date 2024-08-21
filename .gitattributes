@@ -3,3 +3,5 @@
 * linguist-vendored
 *.cs linguist-vendored=false
 *.xaml linguist-vendored=false
+*.xaml linguist-language=Xaml
+
